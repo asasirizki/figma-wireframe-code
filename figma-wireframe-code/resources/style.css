@@ -1,0 +1,32 @@
+/** Universal Styles **/
+
+body{
+    background-color: white;
+    font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #6D7D8B;
+    max-width: 1440px;
+    max-height: 4500px;
+    box-sizing: border-box;
+}
+
+ol, ul{
+    list-style: none;
+    display: flex;
+}
+
+li{
+    margin-right: 30px;
+}
+
+header{
+    margin: 0 140px;
+}
+
+.section{
+    margin: 0 140px;
+}
+
+#flex--footer{
+    margin: 0 140px;
+}
